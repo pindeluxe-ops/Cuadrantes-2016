@@ -1,0 +1,19 @@
+backend/
+ ├─ package.json
+ ├─ .env
+ ├─ prisma/
+ │   ├─ schema.prisma
+ │   └─ dev.db  (se crea al hacer migrate)
+ ├─ src/
+ │   ├─ index.js
+ │   ├─ app.js
+ │   ├─ routes/
+ │   │   ├─ auth.js
+ │   │   ├─ personnel.js
+ │   │   ├─ parks.js
+ │   │   ├─ vacations.js
+ │   │   └─ schedule.js
+ │   ├─ services/
+ │   │   └─ scheduler.js
+ │   └─ seed_admin.js
+ └─ Dockerfile

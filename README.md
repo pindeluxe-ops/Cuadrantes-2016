@@ -1,2 +1,12 @@
 # Cuadrantes App
-Proyecto base listo para subir a GitHub.
+
+Proyecto base con:
+
+- Backend: Node + Express
+- Frontend: React + Vite
+- Docker Compose
+
+Instrucciones de uso:
+
+## Backend
+

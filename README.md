@@ -10,3 +10,7 @@ Instrucciones de uso:
 
 ## Backend
 
+## Frontend
+
+## Docker (opcional)
+
